@@ -1,1 +1,1 @@
-Aplikasi ini merupakan hasil belajar dari kursus online BWA, Materi: "Full-Stack JavaScript Developer: Website Travel". Link kursus <a href="https://buildwithangga.com/kelas/full-stack-javascript-developer-website-travel?thumbnail=lIVL95mx1A.34&main_leads=searchresult"> Link belajar </a>
+Aplikasi ini merupakan hasil belajar dari kursus online BWA, Materi: "Full-Stack JavaScript Developer: Website Travel". <a href="https://buildwithangga.com/kelas/full-stack-javascript-developer-website-travel?thumbnail=lIVL95mx1A.34&main_leads=searchresult"> Link kursus </a>
